@@ -8,4 +8,6 @@ func main() {
 	second_userinput()
 	third_conv()
 	fourth_time()
+	sixth_pointer()
+	seventh_array()
 }
