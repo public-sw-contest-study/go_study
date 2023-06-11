@@ -10,4 +10,5 @@ func main() {
 	fourth_time()
 	sixth_pointer()
 	seventh_array()
+	eighth_slices()
 }
