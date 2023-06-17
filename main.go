@@ -11,4 +11,6 @@ func main() {
 	sixth_pointer()
 	seventh_array()
 	eighth_slices()
+	twelve_ifelse()
+	thirteen_switch()
 }
